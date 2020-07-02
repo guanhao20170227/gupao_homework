@@ -55,7 +55,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.32</version>
+            <version>8.0.16</version>
         </dependency>
         <!--  很多 @RestController @GetMapping 都是在这里的， 上面已经引入了
         <dependency>
